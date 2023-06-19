@@ -1,0 +1,28 @@
+/* .ant-layout-sider-children {
+    height: 2000;
+} */
+
+.ant-menu-item-selected {
+    background-color: #03146a !important;
+  }
+
+  .image-upload-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  /* .image-upload {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  } */
+
+  /* .caption-container {
+    margin: 40px;
+    width: 100%;
+  } */
+
+ 

@@ -1,0 +1,11 @@
+.chat {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+}
+ 
+.message {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
